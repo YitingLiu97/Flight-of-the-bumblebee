@@ -85,7 +85,7 @@ For blog documentation, please go [here]. (https://yitingliu97.wordpress.com/201
 <!-- ## Questions -->
 
 <!-- References for resources and inspiration -->
-<!-- ## References --> -->
+<!-- ## References --> 
 
 <!-- * Author First Name, Author Last Name. [Link]()
 * Author First Name, Author Last Name. [Link]() -->
