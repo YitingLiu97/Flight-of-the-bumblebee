@@ -3,7 +3,7 @@
 <!-- A one sentence description of the project or assignment -->
 Flight of the Bumblebee is created by [Yiting Liu](http://yitingliu97.wordpress.com/) and [Simone Salvo](https://www.simonesalvo.com/itp-portfolio).
 
-Demo here.
+[Demo here](https://flight-of-the-bumblebee.herokuapp.com/).
 [Blog documentation here](https://yitingliu97.wordpress.com/2019/11/20/the-flight-of-the-bumblebee-icm-week-11/). 
 
 <!-- It is good practice to add an about or summary -->
