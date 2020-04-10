@@ -1,0 +1,31 @@
+{
+  "name": "flight_of_the_bumble_bee_yiting_and_simone_final_2020_04_09_23_52_15",
+  "version": "1.0.0",
+  "description": "An interactive game to play music with your nose using machine learning ml5.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./ -p $PORT"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YitingLiu97/Flight-of-the-bumblebee.git"
+  },
+  "keywords": [
+    "bee",
+    "flower",
+    "playground",
+    "machine",
+    "learning",
+    "ml5",
+    "js",
+    "p5"
+  ],
+  "author": "Yiting Liu & Simone Salvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YitingLiu97/Flight-of-the-bumblebee/issues"
+  },
+  "homepage": "https://github.com/YitingLiu97/Flight-of-the-bumblebee#readme"
+}
